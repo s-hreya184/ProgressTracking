@@ -1,0 +1,45 @@
+name: Update Cloud Cohort Leaderboard
+
+on:
+  schedule:
+    # Run every 4 hours automatically
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Scrape Profiles & Build Dashboard
+        run: |
+          python scraper.py
+
+      - name: Commit & Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add leaderboard_data.json leaderboard_summary.csv index.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update leaderboard data [skip ci]" && git push)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
