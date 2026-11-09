@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "last_updated": "2026-11-08 20:07:36 UTC",
+    "last_updated": "2026-11-09 04:23:26 UTC",
     "total_participants": 109,
     "active_profiles": 97,
     "missing_urls": 12,
     "issues": 0,
-    "total_badges_earned": 547,
-    "elapsed_seconds": 10.6
+    "total_badges_earned": 549,
+    "elapsed_seconds": 8.5
   },
   "mentors": [
     {
       "name": "Team Lead B",
       "total_mentees": 27,
-      "total_badges": 178,
+      "total_badges": 180,
       "completed_milestone": 15,
       "in_progress": 6,
       "not_started": 4,
@@ -67,13 +67,13 @@
       "count": 57
     },
     {
-      "title": "Create Your First Gemini Enterprise Application",
-      "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-      "count": 54
-    },
-    {
       "title": "Analyze Images with the Cloud Vision API",
       "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+      "count": 55
+    },
+    {
+      "title": "Create Your First Gemini Enterprise Application",
+      "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
       "count": 54
     },
     {
@@ -87,13 +87,13 @@
       "count": 51
     },
     {
-      "title": "Store, Process, and Manage Data on Google Cloud - Console",
-      "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
-      "count": 50
-    },
-    {
       "title": "Build a Website on Google Cloud",
       "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+      "count": 51
+    },
+    {
+      "title": "Store, Process, and Manage Data on Google Cloud - Console",
+      "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
       "count": 50
     },
     {
@@ -3888,6 +3888,57 @@
       "rank": 49
     },
     {
+      "name": "Kshitija Chate",
+      "email": "kshitija.chate@cumminscollege.in",
+      "phone": "7249127320",
+      "mentor": "Team Lead B",
+      "url": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e",
+      "profile_name": "KSHITIJA CHATE",
+      "avatar_url": "",
+      "badge_count": 6,
+      "badges": [
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29500631"
+        },
+        {
+          "title": "Build a Website on Google Cloud",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29500461"
+        },
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491624"
+        },
+        {
+          "title": "Store, Process, and Manage Data on Google Cloud - Console",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491582"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491357"
+        },
+        {
+          "title": "Explore Generative AI in Agent Platform",
+          "date": "Nov  8, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
+          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29490845"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 52
+    },
+    {
       "name": "Savni Kulkarni",
       "email": "savni.m.kulkarni@gmail.com",
       "phone": "7558569224",
@@ -4032,7 +4083,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Rhea Mahajan",
@@ -4077,7 +4128,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Srushti Navale",
@@ -4122,7 +4173,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Arpita Santosh Hande",
@@ -4161,46 +4212,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 57
-    },
-    {
-      "name": "Kshitija Chate",
-      "email": "kshitija.chate@cumminscollege.in",
-      "phone": "7249127320",
-      "mentor": "Team Lead B",
-      "url": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e",
-      "profile_name": "KSHITIJA CHATE",
-      "avatar_url": "",
-      "badge_count": 4,
-      "badges": [
-        {
-          "title": "Create Your First Gemini Enterprise Application",
-          "date": "Nov  8, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491624"
-        },
-        {
-          "title": "Store, Process, and Manage Data on Google Cloud - Console",
-          "date": "Nov  8, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
-          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491582"
-        },
-        {
-          "title": "Using the Google Cloud Speech API",
-          "date": "Nov  8, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29491357"
-        },
-        {
-          "title": "Explore Generative AI in Agent Platform",
-          "date": "Nov  8, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
-          "link": "https://www.skills.google/public_profiles/dca30695-04f5-4226-847a-b27a6e58b06e/badges/29490845"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 57
+      "rank": 58
     },
     {
       "name": "Devshree Patil",
