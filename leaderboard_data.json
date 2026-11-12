@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11 22:26:55 UTC",
+    "last_updated": "2026-11-12 05:33:21 UTC",
     "total_participants": 109,
     "active_profiles": 97,
     "missing_urls": 12,
     "issues": 0,
-    "total_badges_earned": 630,
-    "elapsed_seconds": 12.0
+    "total_badges_earned": 631,
+    "elapsed_seconds": 12.7
   },
   "mentors": [
     {
@@ -42,7 +42,7 @@
     {
       "name": "Team Lead A",
       "total_mentees": 27,
-      "total_badges": 121,
+      "total_badges": 122,
       "completed_milestone": 10,
       "in_progress": 7,
       "not_started": 5,
@@ -77,13 +77,13 @@
       "count": 62
     },
     {
-      "title": "Using the Google Cloud Speech API",
-      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-      "count": 60
-    },
-    {
       "title": "Create Your First Gemini Enterprise Application",
       "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+      "count": 61
+    },
+    {
+      "title": "Using the Google Cloud Speech API",
+      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
       "count": 60
     },
     {
@@ -4536,6 +4536,57 @@
       "rank": 57
     },
     {
+      "name": "Ansy Sanjay Yadav",
+      "email": "ansysyadav21@gmail.com",
+      "phone": "7262832380",
+      "mentor": "Team Lead A",
+      "url": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b",
+      "profile_name": "Ansy Yadav",
+      "avatar_url": "",
+      "badge_count": 6,
+      "badges": [
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 12, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29579815"
+        },
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29572641"
+        },
+        {
+          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571981"
+        },
+        {
+          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571660"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov 10, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29547635"
+        },
+        {
+          "title": "The Basics of Google Cloud Compute",
+          "date": "Nov  5, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29438893"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 60
+    },
+    {
       "name": "Shrustipriya sahoo",
       "email": "Shrustipriya.sahoo@cumminscollege.in",
       "phone": "9579408814",
@@ -4638,51 +4689,6 @@
       "rank": 60
     },
     {
-      "name": "Ansy Sanjay Yadav",
-      "email": "ansysyadav21@gmail.com",
-      "phone": "7262832380",
-      "mentor": "Team Lead A",
-      "url": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b",
-      "profile_name": "Ansy Yadav",
-      "avatar_url": "",
-      "badge_count": 5,
-      "badges": [
-        {
-          "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29572641"
-        },
-        {
-          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571981"
-        },
-        {
-          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571660"
-        },
-        {
-          "title": "Using the Google Cloud Speech API",
-          "date": "Nov 10, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29547635"
-        },
-        {
-          "title": "The Basics of Google Cloud Compute",
-          "date": "Nov  5, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29438893"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 62
-    },
-    {
       "name": "Srushti Navale",
       "email": "srushti.navale@cumminscollege.in",
       "phone": "9322495831",
@@ -4725,7 +4731,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Akshda Sanjay Avhad",
