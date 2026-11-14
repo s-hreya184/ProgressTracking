@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14 11:11:07 UTC",
+    "last_updated": "2026-11-14 17:37:09 UTC",
     "total_participants": 109,
     "active_profiles": 97,
     "missing_urls": 12,
     "issues": 0,
-    "total_badges_earned": 666,
-    "elapsed_seconds": 9.0
+    "total_badges_earned": 668,
+    "elapsed_seconds": 15.2
   },
   "mentors": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "Team Lead C",
       "total_mentees": 27,
-      "total_badges": 170,
+      "total_badges": 171,
       "completed_milestone": 16,
       "in_progress": 3,
       "not_started": 6,
@@ -32,10 +32,10 @@
     {
       "name": "Shreya",
       "total_mentees": 28,
-      "total_badges": 148,
+      "total_badges": 149,
       "completed_milestone": 13,
-      "in_progress": 3,
-      "not_started": 9,
+      "in_progress": 4,
+      "not_started": 8,
       "missing_url": 3,
       "completion_rate": 46.4
     },
@@ -54,7 +54,7 @@
     {
       "title": "The Basics of Google Cloud Compute",
       "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-      "count": 72
+      "count": 73
     },
     {
       "title": "Configure Service Accounts and IAM Roles for Google Cloud",
@@ -74,7 +74,7 @@
     {
       "title": "Analyze Images with the Cloud Vision API",
       "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-      "count": 65
+      "count": 66
     },
     {
       "title": "Develop AI-Powered Prototypes in Google AI Studio",
@@ -5118,6 +5118,39 @@
       "rank": 69
     },
     {
+      "name": "Trupti Garje",
+      "email": "trupti.garje@cumminscollege.in",
+      "phone": "9359278294",
+      "mentor": "Team Lead C",
+      "url": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22",
+      "profile_name": "trupti G",
+      "avatar_url": "",
+      "badge_count": 3,
+      "badges": [
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 14, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29636427"
+        },
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 14, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29631870"
+        },
+        {
+          "title": "Develop AI-Powered Prototypes in Google AI Studio",
+          "date": "Nov 13, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
+          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29622272"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 69
+    },
+    {
       "name": "Mayuri Ingle",
       "email": "mayuri.ingle@cumminscollege.in",
       "phone": "9022253449",
@@ -5142,7 +5175,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 70
+      "rank": 71
     },
     {
       "name": "Rajasi Gulhane",
@@ -5169,34 +5202,28 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 70
+      "rank": 71
     },
     {
-      "name": "Trupti Garje",
-      "email": "trupti.garje@cumminscollege.in",
-      "phone": "9359278294",
-      "mentor": "Team Lead C",
-      "url": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22",
-      "profile_name": "trupti G",
+      "name": "Radha Aole",
+      "email": "radhaaole12@gmail.com",
+      "phone": "8435861182",
+      "mentor": "Shreya",
+      "url": "https://www.skills.google/public_profiles/856c8300-e6d4-48b8-bc92-1c7465b956cd",
+      "profile_name": "Radha Aole",
       "avatar_url": "",
-      "badge_count": 2,
+      "badge_count": 1,
       "badges": [
         {
-          "title": "Create Your First Gemini Enterprise Application",
+          "title": "The Basics of Google Cloud Compute",
           "date": "Nov 14, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29631870"
-        },
-        {
-          "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov 13, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29622272"
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/856c8300-e6d4-48b8-bc92-1c7465b956cd/badges/29639583"
         }
       ],
       "status": "active",
       "error": null,
-      "rank": 70
+      "rank": 73
     },
     {
       "name": "Sadhana Padmawar",
@@ -5464,20 +5491,6 @@
       "mentor": "Shreya",
       "url": "https://www.skills.google/public_profiles/25160038-0593-4a7b-8b14-8b09eea4ff16",
       "profile_name": "Prapti Bhattad",
-      "avatar_url": "",
-      "badge_count": 0,
-      "badges": [],
-      "status": "active",
-      "error": null,
-      "rank": "-"
-    },
-    {
-      "name": "Radha Aole",
-      "email": "radhaaole12@gmail.com",
-      "phone": "8435861182",
-      "mentor": "Shreya",
-      "url": "https://www.skills.google/public_profiles/856c8300-e6d4-48b8-bc92-1c7465b956cd",
-      "profile_name": "Radha Aole",
       "avatar_url": "",
       "badge_count": 0,
       "badges": [],
