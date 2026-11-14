@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14 00:38:04 UTC",
+    "last_updated": "2026-11-14 11:11:07 UTC",
     "total_participants": 109,
     "active_profiles": 97,
     "missing_urls": 12,
     "issues": 0,
-    "total_badges_earned": 665,
-    "elapsed_seconds": 8.5
+    "total_badges_earned": 666,
+    "elapsed_seconds": 9.0
   },
   "mentors": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "Team Lead C",
       "total_mentees": 27,
-      "total_badges": 169,
+      "total_badges": 170,
       "completed_milestone": 16,
       "in_progress": 3,
       "not_started": 6,
@@ -69,7 +69,7 @@
     {
       "title": "Create Your First Gemini Enterprise Application",
       "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-      "count": 66
+      "count": 67
     },
     {
       "title": "Analyze Images with the Cloud Vision API",
@@ -5172,6 +5172,33 @@
       "rank": 70
     },
     {
+      "name": "Trupti Garje",
+      "email": "trupti.garje@cumminscollege.in",
+      "phone": "9359278294",
+      "mentor": "Team Lead C",
+      "url": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22",
+      "profile_name": "trupti G",
+      "avatar_url": "",
+      "badge_count": 2,
+      "badges": [
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 14, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29631870"
+        },
+        {
+          "title": "Develop AI-Powered Prototypes in Google AI Studio",
+          "date": "Nov 13, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
+          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29622272"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 70
+    },
+    {
       "name": "Sadhana Padmawar",
       "email": "sadhana.padmawar@cumminscollege.in",
       "phone": "7028644058",
@@ -5190,28 +5217,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 72
-    },
-    {
-      "name": "Trupti Garje",
-      "email": "trupti.garje@cumminscollege.in",
-      "phone": "9359278294",
-      "mentor": "Team Lead C",
-      "url": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22",
-      "profile_name": "trupti G",
-      "avatar_url": "",
-      "badge_count": 1,
-      "badges": [
-        {
-          "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov 13, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/4da3ba7b-e984-4890-950e-84dcc4fada22/badges/29622272"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "Anjali Rathore",
