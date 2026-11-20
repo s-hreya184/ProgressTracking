@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20 05:31:07 UTC",
+    "last_updated": "2026-11-20 16:39:25 UTC",
     "total_participants": 204,
     "active_profiles": 204,
     "missing_urls": 0,
     "issues": 0,
-    "total_badges_earned": 1233,
-    "elapsed_seconds": 24.0
+    "total_badges_earned": 1247,
+    "elapsed_seconds": 21.7
   },
   "mentors": [
     {
@@ -22,12 +22,12 @@
     {
       "name": "Shreya Babar",
       "total_mentees": 5,
-      "total_badges": 41,
-      "completed_milestone": 3,
-      "in_progress": 2,
+      "total_badges": 45,
+      "completed_milestone": 4,
+      "in_progress": 1,
       "not_started": 0,
       "missing_url": 0,
-      "completion_rate": 60.0
+      "completion_rate": 80.0
     },
     {
       "name": "Janhavi Shinde",
@@ -120,6 +120,16 @@
       "completion_rate": 75.0
     },
     {
+      "name": "Anagha Wani",
+      "total_mentees": 4,
+      "total_badges": 32,
+      "completed_milestone": 3,
+      "in_progress": 1,
+      "not_started": 0,
+      "missing_url": 0,
+      "completion_rate": 75.0
+    },
+    {
       "name": "Nikita Tribhuwan",
       "total_mentees": 4,
       "total_badges": 31,
@@ -136,16 +146,6 @@
       "completed_milestone": 3,
       "in_progress": 1,
       "not_started": 0,
-      "missing_url": 0,
-      "completion_rate": 75.0
-    },
-    {
-      "name": "Anagha Wani",
-      "total_mentees": 4,
-      "total_badges": 30,
-      "completed_milestone": 3,
-      "in_progress": 0,
-      "not_started": 1,
       "missing_url": 0,
       "completion_rate": 75.0
     },
@@ -200,6 +200,16 @@
       "completion_rate": 50.0
     },
     {
+      "name": "Isha Tanawade",
+      "total_mentees": 4,
+      "total_badges": 28,
+      "completed_milestone": 2,
+      "in_progress": 1,
+      "not_started": 1,
+      "missing_url": 0,
+      "completion_rate": 50.0
+    },
+    {
       "name": "Tanvi Dudhagundi",
       "total_mentees": 5,
       "total_badges": 28,
@@ -208,16 +218,6 @@
       "not_started": 1,
       "missing_url": 0,
       "completion_rate": 40.0
-    },
-    {
-      "name": "Isha Tanawade",
-      "total_mentees": 4,
-      "total_badges": 27,
-      "completed_milestone": 2,
-      "in_progress": 1,
-      "not_started": 1,
-      "missing_url": 0,
-      "completion_rate": 50.0
     },
     {
       "name": "Mehek Shaha",
@@ -332,7 +332,7 @@
     {
       "name": "Aashita Rai",
       "total_mentees": 4,
-      "total_badges": 18,
+      "total_badges": 19,
       "completed_milestone": 1,
       "in_progress": 1,
       "not_started": 2,
@@ -350,9 +350,19 @@
       "completion_rate": 25.0
     },
     {
+      "name": "Prachi Joshi",
+      "total_mentees": 4,
+      "total_badges": 18,
+      "completed_milestone": 1,
+      "in_progress": 1,
+      "not_started": 2,
+      "missing_url": 0,
+      "completion_rate": 25.0
+    },
+    {
       "name": "Bhavi Shah",
       "total_mentees": 4,
-      "total_badges": 15,
+      "total_badges": 16,
       "completed_milestone": 1,
       "in_progress": 1,
       "not_started": 2,
@@ -388,16 +398,6 @@
       "not_started": 1,
       "missing_url": 0,
       "completion_rate": 25.0
-    },
-    {
-      "name": "Prachi Joshi",
-      "total_mentees": 4,
-      "total_badges": 13,
-      "completed_milestone": 0,
-      "in_progress": 2,
-      "not_started": 2,
-      "missing_url": 0,
-      "completion_rate": 0.0
     },
     {
       "name": "Ira Ketkar",
@@ -464,12 +464,12 @@
     {
       "title": "The Basics of Google Cloud Compute",
       "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-      "count": 141
+      "count": 142
     },
     {
       "title": "Configure Service Accounts and IAM Roles for Google Cloud",
       "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-      "count": 130
+      "count": 131
     },
     {
       "title": "Implement Speech and Language Solutions with Pre-trained APIs",
@@ -479,37 +479,37 @@
     {
       "title": "Develop AI-Powered Prototypes in Google AI Studio",
       "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-      "count": 122
+      "count": 123
     },
     {
       "title": "Analyze Images with the Cloud Vision API",
       "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+      "count": 121
+    },
+    {
+      "title": "Create Your First Gemini Enterprise Application",
+      "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
       "count": 120
     },
     {
       "title": "Build a Website on Google Cloud",
       "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
-      "count": 118
-    },
-    {
-      "title": "Create Your First Gemini Enterprise Application",
-      "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-      "count": 118
-    },
-    {
-      "title": "Explore Generative AI in Agent Platform",
-      "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
-      "count": 114
-    },
-    {
-      "title": "Using the Google Cloud Speech API",
-      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-      "count": 114
+      "count": 119
     },
     {
       "title": "Store, Process, and Manage Data on Google Cloud - Console",
       "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
-      "count": 114
+      "count": 117
+    },
+    {
+      "title": "Explore Generative AI in Agent Platform",
+      "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
+      "count": 116
+    },
+    {
+      "title": "Using the Google Cloud Speech API",
+      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+      "count": 116
     },
     {
       "title": "Introduction to Generative AI",
@@ -2467,6 +2467,81 @@
           "date": "Nov 12, 2026 EST",
           "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
           "link": "https://www.skills.google/public_profiles/5f7eb75d-e46b-4bfc-880f-90c73dbcfcdc/badges/29591157"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 4
+    },
+    {
+      "name": "Bhumika Avinash Shirole",
+      "email": "bhumika.shirole@cumminscollege.in",
+      "phone": "",
+      "mentor": "Shreya Babar",
+      "url": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db",
+      "profile_name": "853_BHUMIKA SHIROLE",
+      "avatar_url": "",
+      "badge_count": 10,
+      "badges": [
+        {
+          "title": "Explore Generative AI in Agent Platform",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29785946"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29784607"
+        },
+        {
+          "title": "Store, Process, and Manage Data on Google Cloud - Console",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29784139"
+        },
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29783123"
+        },
+        {
+          "title": "Build a Website on Google Cloud",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29764404"
+        },
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29762935"
+        },
+        {
+          "title": "Develop AI-Powered Prototypes in Google AI Studio",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29762350"
+        },
+        {
+          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29761323"
+        },
+        {
+          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29756069"
+        },
+        {
+          "title": "The Basics of Google Cloud Compute",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29753818"
         }
       ],
       "status": "active",
@@ -4567,6 +4642,81 @@
           "date": "Oct 30, 2026 EDT",
           "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
           "link": "https://www.skills.google/public_profiles/31933878-7066-4fd3-9cd6-88bbaf85359c/badges/29257317"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 4
+    },
+    {
+      "name": "Nidhi Dawange",
+      "email": "dawangenidhi@gmail.com",
+      "phone": "",
+      "mentor": "Prachi Joshi",
+      "url": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503",
+      "profile_name": "nidhi dawange",
+      "avatar_url": "",
+      "badge_count": 10,
+      "badges": [
+        {
+          "title": "Explore Generative AI in Agent Platform",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29773130"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29772165"
+        },
+        {
+          "title": "Store, Process, and Manage Data on Google Cloud - Console",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29771937"
+        },
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29771377"
+        },
+        {
+          "title": "Build a Website on Google Cloud",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29770494"
+        },
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29770008"
+        },
+        {
+          "title": "Develop AI-Powered Prototypes in Google AI Studio",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29763333"
+        },
+        {
+          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29761242"
+        },
+        {
+          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+          "date": "Nov 19, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29760742"
+        },
+        {
+          "title": "The Basics of Google Cloud Compute",
+          "date": "Nov 18, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29727994"
         }
       ],
       "status": "active",
@@ -8849,6 +8999,75 @@
       "rank": 4
     },
     {
+      "name": "Ansy Sanjay Yadav",
+      "email": "ansysyadav21@gmail.com",
+      "phone": "",
+      "mentor": "Aashita Rai",
+      "url": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b",
+      "profile_name": "Ansy Yadav",
+      "avatar_url": "",
+      "badge_count": 9,
+      "badges": [
+        {
+          "title": "Develop AI-Powered Prototypes in Google AI Studio",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29777365"
+        },
+        {
+          "title": "Build a Website on Google Cloud",
+          "date": "Nov 17, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29693596"
+        },
+        {
+          "title": "Explore Generative AI in Agent Platform",
+          "date": "Nov 13, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29622079"
+        },
+        {
+          "title": "Create Your First Gemini Enterprise Application",
+          "date": "Nov 12, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29579815"
+        },
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29572641"
+        },
+        {
+          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571981"
+        },
+        {
+          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+          "date": "Nov 11, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571660"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov 10, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29547635"
+        },
+        {
+          "title": "The Basics of Google Cloud Compute",
+          "date": "Nov  5, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29438893"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 113
+    },
+    {
       "name": "Siddhi Milind Indapurkar",
       "email": "siddhi.indapurkar@cumminscollege.in",
       "phone": "",
@@ -8915,70 +9134,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 111
-    },
-    {
-      "name": "Ansy Sanjay Yadav",
-      "email": "ansysyadav21@gmail.com",
-      "phone": "",
-      "mentor": "Aashita Rai",
-      "url": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b",
-      "profile_name": "Ansy Yadav",
-      "avatar_url": "",
-      "badge_count": 8,
-      "badges": [
-        {
-          "title": "Build a Website on Google Cloud",
-          "date": "Nov 17, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29693596"
-        },
-        {
-          "title": "Explore Generative AI in Agent Platform",
-          "date": "Nov 13, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29622079"
-        },
-        {
-          "title": "Create Your First Gemini Enterprise Application",
-          "date": "Nov 12, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29579815"
-        },
-        {
-          "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29572641"
-        },
-        {
-          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571981"
-        },
-        {
-          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov 11, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29571660"
-        },
-        {
-          "title": "Using the Google Cloud Speech API",
-          "date": "Nov 10, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29547635"
-        },
-        {
-          "title": "The Basics of Google Cloud Compute",
-          "date": "Nov  5, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/b81b134a-3c3f-4b72-b235-94510a4c986b/badges/29438893"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 112
+      "rank": 113
     },
     {
       "name": "Anushka Sanjay Agrawal",
@@ -9041,64 +9197,70 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 112
+      "rank": 115
     },
     {
-      "name": "Nidhi Dawange",
-      "email": "dawangenidhi@gmail.com",
+      "name": "Sharvari Dipak Karve",
+      "email": "sharvari.karve@cumminscollege.in",
       "phone": "",
       "mentor": "Prachi Joshi",
-      "url": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503",
-      "profile_name": "nidhi dawange",
+      "url": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2",
+      "profile_name": "154_SHARVARI KARVE",
       "avatar_url": "",
-      "badge_count": 7,
+      "badge_count": 8,
       "badges": [
+        {
+          "title": "Store, Process, and Manage Data on Google Cloud - Console",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29785710"
+        },
         {
           "title": "Create Your First Gemini Enterprise Application",
           "date": "Nov 20, 2026 EST",
           "image": "https://cdn.qwiklabs.com/L0e8u5bkhDYEvFV%2Bsx%2FfXsxQiz%2F%2FsAwAHrJOvwu9VJY%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29771377"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29785016"
         },
         {
           "title": "Build a Website on Google Cloud",
           "date": "Nov 19, 2026 EST",
           "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29770494"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29756934"
         },
         {
           "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 16, 2026 EST",
           "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29770008"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29677592"
         },
         {
           "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 15, 2026 EST",
           "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29763333"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29652407"
         },
         {
           "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 14, 2026 EST",
           "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29761242"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29630275"
         },
         {
           "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 14, 2026 EST",
           "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29760742"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29628263"
         },
         {
           "title": "The Basics of Google Cloud Compute",
-          "date": "Nov 18, 2026 EST",
+          "date": "Nov 12, 2026 EST",
           "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/b531668b-b942-44bd-8523-cd9796cf9503/badges/29727994"
+          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29605222"
         }
       ],
       "status": "active",
       "error": null,
-      "rank": 114
+      "rank": 115
     },
     {
       "name": "Shivanjali Shivaji Pawar",
@@ -9108,8 +9270,14 @@
       "url": "https://www.skills.google/public_profiles/4ac7efde-c7ad-4e3c-becc-2addba7e279d",
       "profile_name": "Shivanjali Pawar",
       "avatar_url": "",
-      "badge_count": 7,
+      "badge_count": 8,
       "badges": [
+        {
+          "title": "Analyze Images with the Cloud Vision API",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+          "link": "https://www.skills.google/public_profiles/4ac7efde-c7ad-4e3c-becc-2addba7e279d/badges/29773139"
+        },
         {
           "title": "Implement Speech and Language Solutions with Pre-trained APIs",
           "date": "Nov 19, 2026 EST",
@@ -9155,58 +9323,58 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 114
+      "rank": 115
     },
     {
-      "name": "Bhumika Avinash Shirole",
-      "email": "bhumika.shirole@cumminscollege.in",
+      "name": "Ishwari Hingmire",
+      "email": "ishwarihingmireonp@gmail.com",
       "phone": "",
-      "mentor": "Shreya Babar",
-      "url": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db",
-      "profile_name": "853_BHUMIKA SHIROLE",
+      "mentor": "Bhavi Shah",
+      "url": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc",
+      "profile_name": "Ishwari  .",
       "avatar_url": "",
       "badge_count": 6,
       "badges": [
         {
           "title": "Build a Website on Google Cloud",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 20, 2026 EST",
           "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29764404"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29783640"
         },
         {
           "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov 16, 2026 EST",
           "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29762935"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29675704"
         },
         {
           "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov  6, 2026 EST",
           "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29762350"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29467192"
         },
         {
           "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov  4, 2026 EST",
           "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29761323"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29402151"
         },
         {
           "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov  4, 2026 EST",
           "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29756069"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29392145"
         },
         {
           "title": "The Basics of Google Cloud Compute",
-          "date": "Nov 19, 2026 EST",
+          "date": "Nov  1, 2026 EST",
           "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/55bef96a-2eea-4619-b1d3-89192fb075db/badges/29753818"
+          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29312021"
         }
       ],
       "status": "active",
       "error": null,
-      "rank": 116
+      "rank": 118
     },
     {
       "name": "Janhavi V. Chavan",
@@ -9257,58 +9425,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 116
-    },
-    {
-      "name": "Sharvari Dipak Karve",
-      "email": "sharvari.karve@cumminscollege.in",
-      "phone": "",
-      "mentor": "Prachi Joshi",
-      "url": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2",
-      "profile_name": "154_SHARVARI KARVE",
-      "avatar_url": "",
-      "badge_count": 6,
-      "badges": [
-        {
-          "title": "Build a Website on Google Cloud",
-          "date": "Nov 19, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29756934"
-        },
-        {
-          "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 16, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29677592"
-        },
-        {
-          "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov 15, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29652407"
-        },
-        {
-          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov 14, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29630275"
-        },
-        {
-          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov 14, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29628263"
-        },
-        {
-          "title": "The Basics of Google Cloud Compute",
-          "date": "Nov 12, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/e4281b20-57c1-43b6-8b17-2429be99c7c2/badges/29605222"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 116
+      "rank": 118
     },
     {
       "name": "Shrustipriya sahoo",
@@ -9359,7 +9476,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 116
+      "rank": 118
     },
     {
       "name": "Ananya Avdhut Nate",
@@ -9404,7 +9521,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Bhakti Badrinath Karpe",
@@ -9449,52 +9566,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 120
-    },
-    {
-      "name": "Ishwari Hingmire",
-      "email": "ishwarihingmireonp@gmail.com",
-      "phone": "",
-      "mentor": "Bhavi Shah",
-      "url": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc",
-      "profile_name": "Ishwari  .",
-      "avatar_url": "",
-      "badge_count": 5,
-      "badges": [
-        {
-          "title": "Analyze Images with the Cloud Vision API",
-          "date": "Nov 16, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
-          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29675704"
-        },
-        {
-          "title": "Develop AI-Powered Prototypes in Google AI Studio",
-          "date": "Nov  6, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D",
-          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29467192"
-        },
-        {
-          "title": "Implement Speech and Language Solutions with Pre-trained APIs",
-          "date": "Nov  4, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
-          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29402151"
-        },
-        {
-          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
-          "date": "Nov  4, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
-          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29392145"
-        },
-        {
-          "title": "The Basics of Google Cloud Compute",
-          "date": "Nov  1, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
-          "link": "https://www.skills.google/public_profiles/56d71243-e89b-4400-91be-6412d6f8babc/badges/29312021"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Mayuri Appasaheb Ingle",
@@ -9539,7 +9611,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Arpita Hande",
@@ -9851,6 +9923,33 @@
       "rank": 132
     },
     {
+      "name": "Priyanka Mahesh Jadhav",
+      "email": "priyanka.jadhav@cumminscollege.in",
+      "phone": "",
+      "mentor": "Anagha Wani",
+      "url": "https://www.skills.google/public_profiles/8e6dffad-611b-4a62-92eb-b32bc31d7427",
+      "profile_name": "921_PRIYANKA JADHAV",
+      "avatar_url": "",
+      "badge_count": 2,
+      "badges": [
+        {
+          "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+          "link": "https://www.skills.google/public_profiles/8e6dffad-611b-4a62-92eb-b32bc31d7427/badges/29785690"
+        },
+        {
+          "title": "The Basics of Google Cloud Compute",
+          "date": "Nov 20, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+          "link": "https://www.skills.google/public_profiles/8e6dffad-611b-4a62-92eb-b32bc31d7427/badges/29783890"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 132
+    },
+    {
       "name": "Rachana Vazirani",
       "email": "rachana.cohort@gmail.com",
       "phone": "",
@@ -9977,7 +10076,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Avani Panpalia",
@@ -9998,7 +10097,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Harsha Anand Ghate",
@@ -10019,7 +10118,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "NIDHI VINOD BIJWANI",
@@ -10040,7 +10139,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Sadhana Deepak Padmawar",
@@ -10061,7 +10160,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Sanskriti Krishnat Hupare",
@@ -10082,7 +10181,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Tanuja Rajkumar Biradar",
@@ -10103,7 +10202,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Tanushree Shukla",
@@ -10124,7 +10223,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Anjali Rathore",
@@ -10595,20 +10694,6 @@
       "mentor": "Samiksha Deshmukh",
       "url": "https://www.skills.google/public_profiles/5bcd4a98-b208-4fe7-b9fd-9723243c56b3",
       "profile_name": "Priya Verma",
-      "avatar_url": "",
-      "badge_count": 0,
-      "badges": [],
-      "status": "active",
-      "error": null,
-      "rank": "-"
-    },
-    {
-      "name": "Priyanka Mahesh Jadhav",
-      "email": "priyanka.jadhav@cumminscollege.in",
-      "phone": "",
-      "mentor": "Anagha Wani",
-      "url": "https://www.skills.google/public_profiles/8e6dffad-611b-4a62-92eb-b32bc31d7427",
-      "profile_name": "921_PRIYANKA JADHAV",
       "avatar_url": "",
       "badge_count": 0,
       "badges": [],
