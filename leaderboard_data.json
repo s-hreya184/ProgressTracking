@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25 03:20:17 UTC",
+    "last_updated": "2026-11-25 13:50:23 UTC",
     "total_participants": 204,
     "active_profiles": 204,
     "missing_urls": 0,
     "issues": 0,
-    "total_badges_earned": 1410,
-    "elapsed_seconds": 19.8
+    "total_badges_earned": 1412,
+    "elapsed_seconds": 17.6
   },
   "mentors": [
     {
@@ -300,9 +300,9 @@
       "completion_rate": 75.0
     },
     {
-      "name": "Gargi Karnik",
+      "name": "Ridima Bhatnagar",
       "total_mentees": 4,
-      "total_badges": 21,
+      "total_badges": 23,
       "completed_milestone": 2,
       "in_progress": 1,
       "not_started": 1,
@@ -310,7 +310,7 @@
       "completion_rate": 50.0
     },
     {
-      "name": "Ridima Bhatnagar",
+      "name": "Gargi Karnik",
       "total_mentees": 4,
       "total_badges": 21,
       "completed_milestone": 2,
@@ -487,6 +487,11 @@
       "count": 140
     },
     {
+      "title": "Using the Google Cloud Speech API",
+      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+      "count": 138
+    },
+    {
       "title": "Analyze Images with the Cloud Vision API",
       "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
       "count": 138
@@ -495,11 +500,6 @@
       "title": "Store, Process, and Manage Data on Google Cloud - Console",
       "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
       "count": 138
-    },
-    {
-      "title": "Using the Google Cloud Speech API",
-      "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
-      "count": 137
     },
     {
       "title": "Explore Generative AI in Agent Platform",
@@ -564,6 +564,11 @@
     {
       "title": "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation",
       "image": "https://cdn.qwiklabs.com/KdjGcSRsPB4z5kS0FfiWJn%2BO62z9TJriqAQZq45PSkQ%3D",
+      "count": 1
+    },
+    {
+      "title": "Use APIs to Work with Cloud Storage",
+      "image": "https://cdn.qwiklabs.com/IxQNo3BEvRrPJ7gHFoaeqNT6p9lYF3VojGrMuKzmV5Q%3D",
       "count": 1
     },
     {
@@ -11125,6 +11130,39 @@
       "rank": 143
     },
     {
+      "name": "Vaishnavi Dadmal",
+      "email": "vaishnavi.dadmal@cumminscollege.in",
+      "phone": "",
+      "mentor": "Ridima Bhatnagar",
+      "url": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c",
+      "profile_name": "VAISHNAVI DADMAL",
+      "avatar_url": "",
+      "badge_count": 3,
+      "badges": [
+        {
+          "title": "Use APIs to Work with Cloud Storage",
+          "date": "Nov 25, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/IxQNo3BEvRrPJ7gHFoaeqNT6p9lYF3VojGrMuKzmV5Q%3D",
+          "link": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c/badges/29918427"
+        },
+        {
+          "title": "Using the Google Cloud Speech API",
+          "date": "Nov 25, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/sugwT79SbI2u2hS9K4Pxd%2FXn7aFbHvZhTPhy4LaCMQg%3D",
+          "link": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c/badges/29912897"
+        },
+        {
+          "title": "Cloud Engineering",
+          "date": "Nov 24, 2026 EST",
+          "image": "https://cdn.qwiklabs.com/u%2F9pwniO%2F8NCA90sZ%2FIR8GjFjPIoS6WDZ4ug%2FKpn5n0%3D",
+          "link": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c/badges/29896624"
+        }
+      ],
+      "status": "active",
+      "error": null,
+      "rank": 143
+    },
+    {
       "name": "Anushka Mohole",
       "email": "anushka.mohole@cumminscollege.in",
       "phone": "",
@@ -11143,7 +11181,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Avani Panpalia",
@@ -11164,7 +11202,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Harsha Anand Ghate",
@@ -11185,7 +11223,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Manaswi Manesh Thakur",
@@ -11206,7 +11244,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "NIDHI VINOD BIJWANI",
@@ -11227,7 +11265,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Sanskriti Krishnat Hupare",
@@ -11248,7 +11286,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Tanuja Rajkumar Biradar",
@@ -11269,7 +11307,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Tanushree Shukla",
@@ -11290,28 +11328,7 @@
       ],
       "status": "active",
       "error": null,
-      "rank": 144
-    },
-    {
-      "name": "Vaishnavi Dadmal",
-      "email": "vaishnavi.dadmal@cumminscollege.in",
-      "phone": "",
-      "mentor": "Ridima Bhatnagar",
-      "url": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c",
-      "profile_name": "VAISHNAVI DADMAL",
-      "avatar_url": "",
-      "badge_count": 1,
-      "badges": [
-        {
-          "title": "Cloud Engineering",
-          "date": "Nov 24, 2026 EST",
-          "image": "https://cdn.qwiklabs.com/u%2F9pwniO%2F8NCA90sZ%2FIR8GjFjPIoS6WDZ4ug%2FKpn5n0%3D",
-          "link": "https://www.skills.google/public_profiles/937ee473-86b1-42f2-87d3-304c1ced988c/badges/29896624"
-        }
-      ],
-      "status": "active",
-      "error": null,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Anjali Rathore",
